@@ -1,0 +1,25 @@
+.Card {
+    background-color: snow;
+    width: 13rem;
+    height: fit-content;
+    margin-bottom: 2rem;
+    
+  box-shadow: 6px 6px lightgrey;
+}
+
+.Card p {
+    margin: 1.5rem;
+}
+
+.Card button {
+    width: 100%;
+    height: 1.6rem;
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid #707070;
+    border-radius: 4px;
+}
+
+.Card img {
+    border: solid gray 1px;
+}

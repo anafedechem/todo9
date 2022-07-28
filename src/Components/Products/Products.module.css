@@ -1,0 +1,23 @@
+.ProductsSession {
+    height: fit-content;
+    padding: 3rem;
+}
+
+.ProductsSession h3 {
+    color: #707070;
+}
+
+.CardsContainer {
+    max-width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 10%;
+}
+
+.BotaoMaisProdutos {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
